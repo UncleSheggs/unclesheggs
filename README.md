@@ -25,8 +25,6 @@ I'm a passionate software developer and content creator who enjoys solving probl
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ## 🏆 Achievements
-
-- 🏆 Winner of [Hackathon/Event]
 - 🛠 Built [[Areeta](http://myareeta.com/)]
 
 ## 🌐 Connect with Me
