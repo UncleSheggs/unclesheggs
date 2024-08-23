@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Godfrey
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/unclesheggs?style=social)
+![GitHub stars](https://img.shields.io/github/stars/unclesheggs?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=unclesheggs&style=flat-square)
 
 I'm a passionate software developer and content creator who enjoys solving problems and building impactful products. Welcome to my GitHub profile!
 
